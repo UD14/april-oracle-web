@@ -57,7 +57,7 @@ export default function Home() {
       {/* Header */}
       <div className="flex items-center justify-between mb-8 pt-4">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight">April Oracle</h1>
+          <h1 className="text-2xl font-bold tracking-tight">クリプトジャッジ</h1>
           <p className="text-sm text-gray-400">Crypto AI Signal Engine</p>
         </div>
         <div className="text-right">

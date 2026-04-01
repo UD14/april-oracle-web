@@ -1,0 +1,18 @@
+
+> april-oracle-web@0.1.0 dev
+> next dev -p 3001
+
+▲ Next.js 16.2.1 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.0.54:3001
+- Environments: .env.local
+✓ Ready in 876ms
+
+ GET / 200 in 433ms (next.js: 230ms, application-code: 203ms)
+ GET / 200 in 162ms (next.js: 5ms, application-code: 157ms)
+ GET /api/log 200 in 147ms (next.js: 125ms, application-code: 23ms)
+ GET /api/log 200 in 31ms (next.js: 9ms, application-code: 22ms)
+ GET /api/signal 200 in 12.9s (next.js: 73ms, application-code: 12.8s)
+✓ Compiled in 1158ms
+ GET / 200 in 211ms (next.js: 46ms, application-code: 165ms)
+✓ Compiled in 159ms
